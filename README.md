@@ -1,20 +1,20 @@
 modelo_ativação_totvs
 ==============================
 
-In this repository I will show you how to use Azure Databricks for the development and training of articial intelligence models letting them available in an integration and continuous delivery process (CI/CD).
+Neste repositório mostrarei como usar Azure Databricks para o desenvolvimento e treinamento de modelos de inteligência artificial disponibilizando-os em um processo de integração e entrega contínua (CI/CD).
 
-The main idea is to build an end-to-end project for developing, training, deploying and monitoring machine learning models.
+A ideia principal é construir um projeto de ponta a ponta para desenvolvimento, treinamento, implantação e monitoramento de modelos de machine learning.
 
 Steps: <br>
-1. [DONE] Train a churn prediction model using Azure Databricks
-2. [DONE] Deploy the machine learning model
-3. [...] Build a MLOps Pipeline
-4. [...] Monitor your machine learning model
+1. [DONE] Treinar um modelo de previsão de rotatividade usando Azure Databricks
+2. [DONE] Implantar o modelo de aprendizado de máquina
+3. [...] Construir um pipeline de MLOps
+4. [...] Monitore seu modelo de aprendizado de máquina
 
 ![Front](imgs/arquitetura_databricks.png)
 
 ------------
-Project Organization
+Organização do projeto
 ------------
 
 ```
